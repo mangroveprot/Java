@@ -1,0 +1,3 @@
+[submodule "NumberGuessingGame"]
+	path = NumberGuessingGame
+	url = https://github.com/mangroveprot/NumberGuessingGame.git
